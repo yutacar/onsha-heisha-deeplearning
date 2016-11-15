@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.vagrant/
+Anaconda3-4.2.0-Linux-x86_64.sh
