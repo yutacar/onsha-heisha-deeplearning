@@ -11,7 +11,7 @@
 ## 事前準備
 1. vagrant upし、環境準備
 2. vagrant sshでログイン
-3. `python --version`とタイプし、バージョン情報を確認
+3. `python --version`とタイプし、バージョン情報を確認(Python 3.5.x :: Anaconda x.x.xと表示れればOK)
 
 ## 実施予定
 1. [ディープラーニングとは](1.md)
